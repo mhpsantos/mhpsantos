@@ -12,7 +12,7 @@ On my free time I mainly explore APIs and try to build something for me using th
 
 * **Name**: Matheus Santos
 * **Age**: 21
-* **Stack**: Laravel/Lumen, Bootstrap, MySQL
+* **Stack**: Laravel/Lumen, Livewire, Bootstrap/TailwindCSS, MySQL
 
 ## Experiences
 * School platform with fully automated generation of quizzes using Google Forms and Google Script (**Laravel, MySQL, Bootstrap**).
