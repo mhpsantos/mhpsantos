@@ -1,19 +1,11 @@
-
-<div>
-  <a target='_blank' href="https://www.linkedin.com/in/mtpsantos/">
-    <img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin'>
-  </a>  
+<div align="center">
+  <a href="https://github.com/mhpsantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhpsantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhpsantos&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
-## About
-**Hello there!** 
 
-My name is Matheus Santos, I am a Full Stack Laravel/ReactJS Developer based in Greater Belo Horizonte - Brazil.
-I mainly explore APIs and try to build something for me using them. Sometimes I like to try tools and programming languages for other purposes beyond web development.
-
-* **Name**: Matheus Santos
-* **Age**: 22
-* **What I use**: Laravel/Lumen, Livewire/ReactJS, Bootstrap/TailwindCSS, MySQL
-
-## Experiences
-* Currently working as a Full Stack Developer, with technologies like: Laravel, ReactJS, MySQL, Bootstrap
+<div align="center">
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<div>
