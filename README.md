@@ -2,13 +2,13 @@
 
 Let me introduce myself. I promise to keep things simple.
 
-### About me
+## About me
 
 - My name is Matheus
 - I am from Brazil 🇧🇷
 - Highly curious 🔍
 
-### Currently working with:
+## Currently working with:
 
 <div>
   <img height="30rem" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -17,7 +17,7 @@ Let me introduce myself. I promise to keep things simple.
   <img height="30rem" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
-### Currently learning:
+## Currently learning:
 
 <div>
   <img height="30rem" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -25,7 +25,7 @@ Let me introduce myself. I promise to keep things simple.
 </div>
 
 
-### Curiosities
+## Curiosities
 
 - started messing with computers/electronics when I was around 4 years old 🖥️
 - as a kid I would disassemble _everything_ that had anything electronic inside just to know how it worked  🛠️
