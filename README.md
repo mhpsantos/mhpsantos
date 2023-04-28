@@ -34,6 +34,6 @@ Let me introduce myself. I promise to keep things simple.
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-neon-one-98.vercel.app/api?username=mhpsantos&show_icons=true&theme=panda&include_all_commits=true&count_private=true&hide_border=true&custom_title=My+GitHub+Stats&hide=stars,issues"/>
-  <img height="160em" src="https://github-readme-stats-neon-one-98.vercel.app/api/top-langs/?username=mhpsantos&layout=compact&langs_count=5&theme=panda&hide_border=true&hide=SCSS,Blade,CSS"
+  <img height="160em" src="https://github-readme-stats-mhpsantos.vercel.app/api?username=mhpsantos&show_icons=true&theme=panda&include_all_commits=true&count_private=true&hide_border=true&custom_title=My+GitHub+Stats&hide=stars,issues"/>
+  <img height="160em" src="https://github-readme-stats-mhpsantos.vercel.app/api/top-langs/?username=mhpsantos&layout=compact&langs_count=5&theme=panda&hide_border=true&hide=SCSS,Blade,CSS"
 </div>
