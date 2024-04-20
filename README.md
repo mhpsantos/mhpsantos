@@ -23,7 +23,7 @@ You will find a few nonsense repos but that's just me trying new things.
 
 ## About me
 
-- started messing with computers/electronics at around 4 years old (have pics, did happen) 🖥️
+- started messing with computers/electronics at around 4 years old, but things only got serious at 20 though (have pics, did happen) 🖥️
 - as a kid I would disassemble _every electronic device_ laying around just to know how it worked  🛠️
 
 ---
