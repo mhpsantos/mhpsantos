@@ -2,7 +2,7 @@
 
 This is where I learn/experiment/work/show-off everything code-related. You **will** find some nonsense here but that's just me trying new things.
 
-## Currently working with
+## I mainly work with
 
 <div>
   <img height="30rem" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -21,16 +21,18 @@ This is where I learn/experiment/work/show-off everything code-related. You **wi
 
 -->
 - InfoSec
-- Low Level programming
+- Low-level programming
+- Reverse Engineering
+
 ## About me
 
 - started messing with computers/electronics at around 4 years old, but things only got serious at 20 though (have pics, did happen) 🖥️
 - as a kid I would disassemble _every electronic device_ laying around just to know how it worked  🛠️
 
-
+<!--
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mhpsantos/mhpsantos/main/nyan-cat.gif');]{x0000}$}
-
+-->
 <!-- FIX THIS LATER, AGAIN!!
 ---
 
