@@ -30,7 +30,7 @@ This is where I learn/experiment/work/show-off everything code-related. You **wi
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/mhpsantos/mhpsantos/blob/cc173a1d71bf9df870df5142fd4c4226f3d608d3/nyan-cat.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mhpsantos/mhpsantos/main/nyan-cat.gif');]{x0000}$}
 
 <!-- FIX THIS LATER, AGAIN!!
 ---
